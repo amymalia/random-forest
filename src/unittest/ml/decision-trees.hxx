@@ -57,7 +57,7 @@
 #include <algorithm> // std::sort
 #include <iterator> // std::distance
 
-#include "andres/marray.hxx"
+#include "marray.hxx"
 
 /// The public API.
 namespace andres {

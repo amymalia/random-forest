@@ -2,8 +2,8 @@
 #include <vector>
 #include <random>
 
-#include "andres/marray.hxx"
-#include "andres/ml/decision-trees.hxx"
+#include "marray.hxx"
+#include "decision-trees.hxx"
 
 inline void test(const bool& x) { 
     if(!x) throw std::logic_error("test failed."); 
